@@ -152,7 +152,7 @@ import {
 	  // trigger the file input click event to open the file dialog
 	  input.click();
 	}
-	/**
+	/**  
 	 * Removes a flow from an array of flows based on its id.
 	 * Updates the state of flows and tabIndex using setFlows and setTabIndex hooks.
 	 * @param {string} id - The id of the flow to remove.

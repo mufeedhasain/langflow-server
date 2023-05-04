@@ -19,7 +19,7 @@ const distributionFunction = () => {
         );
         sendData(updatedNode);
       }
-    });
+    });  
   }, [receiveData, sendData, setTypes, types]);
 
   return null;
